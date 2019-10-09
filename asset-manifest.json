@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_films-list-use-raw-redux-copy/static/css/main.5ada3aa5.chunk.css",
-    "main.js": "/react_films-list-use-raw-redux-copy/static/js/main.3f83d1c0.chunk.js",
-    "main.js.map": "/react_films-list-use-raw-redux-copy/static/js/main.3f83d1c0.chunk.js.map",
+    "main.js": "/react_films-list-use-raw-redux-copy/static/js/main.01e0b798.chunk.js",
+    "main.js.map": "/react_films-list-use-raw-redux-copy/static/js/main.01e0b798.chunk.js.map",
     "runtime~main.js": "/react_films-list-use-raw-redux-copy/static/js/runtime~main.f3dec76c.js",
     "runtime~main.js.map": "/react_films-list-use-raw-redux-copy/static/js/runtime~main.f3dec76c.js.map",
     "static/css/2.1ab5750d.chunk.css": "/react_films-list-use-raw-redux-copy/static/css/2.1ab5750d.chunk.css",
-    "static/js/2.bc69c30a.chunk.js": "/react_films-list-use-raw-redux-copy/static/js/2.bc69c30a.chunk.js",
-    "static/js/2.bc69c30a.chunk.js.map": "/react_films-list-use-raw-redux-copy/static/js/2.bc69c30a.chunk.js.map",
+    "static/js/2.c1c2514d.chunk.js": "/react_films-list-use-raw-redux-copy/static/js/2.c1c2514d.chunk.js",
+    "static/js/2.c1c2514d.chunk.js.map": "/react_films-list-use-raw-redux-copy/static/js/2.c1c2514d.chunk.js.map",
     "index.html": "/react_films-list-use-raw-redux-copy/index.html",
-    "precache-manifest.cab1352d1ab25379254d3db68d02e83c.js": "/react_films-list-use-raw-redux-copy/precache-manifest.cab1352d1ab25379254d3db68d02e83c.js",
+    "precache-manifest.d8b0489527776f9b886ca0a55ebd0a7f.js": "/react_films-list-use-raw-redux-copy/precache-manifest.d8b0489527776f9b886ca0a55ebd0a7f.js",
     "service-worker.js": "/react_films-list-use-raw-redux-copy/service-worker.js",
     "static/css/2.1ab5750d.chunk.css.map": "/react_films-list-use-raw-redux-copy/static/css/2.1ab5750d.chunk.css.map",
     "static/css/main.5ada3aa5.chunk.css.map": "/react_films-list-use-raw-redux-copy/static/css/main.5ada3aa5.chunk.css.map"
